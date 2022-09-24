@@ -1,4 +1,4 @@
-# Huddle Landing Page (React & Styled Components)
+#  Landing Page (React & Styled Components)
 
 Project from my styled components crash course
 
